@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 *.iml
 .gradle
 /local.properties
@@ -13,7 +13,6 @@ config
 description
 hooks/
 info/
-=======
 # Built application files
 *.apk
 *.ap_
@@ -50,8 +49,9 @@ captures/
 
 # Intellij
 *.iml
+.idea/
 .idea/workspace.xml
 
 # Keystore files
 *.jks
->>>>>>> 5567ea4014db51f98a26ec1d2106eabd4dfb2e1f
+
