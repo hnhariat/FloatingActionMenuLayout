@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="fabMenu">
+        <attr name="margin_left" format="dimension" />
+        <attr name="margin_right" format="dimension" />
+        <attr name="margin_top" format="dimension" />
+        <attr name="margin_bottom" format="dimension" />
+        <attr name="menu_height" format="dimension" />
+        <attr name="menu_background" format="integer" />
+    </declare-styleable>
+</resources>
